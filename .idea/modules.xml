@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01.2 StacksAndQueues-Lab/01.2 StacksAndQueues-Lab.iml" filepath="$PROJECT_DIR$/01.2 StacksAndQueues-Lab/01.2 StacksAndQueues-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.3 StacksAndQueues-Exercises/01.3 StacksAndQueues-Exercises.iml" filepath="$PROJECT_DIR$/01.3 StacksAndQueues-Exercises/01.3 StacksAndQueues-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.2 MultidimensionalArrays-Lab/02.2 MultidimensionalArrays-Lab.iml" filepath="$PROJECT_DIR$/02.2 MultidimensionalArrays-Lab/02.2 MultidimensionalArrays-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.3 MultidimensionalArrays-Exercises/02.3 MultidimensionalArrays-Exercises.iml" filepath="$PROJECT_DIR$/02.3 MultidimensionalArrays-Exercises/02.3 MultidimensionalArrays-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.2 SetsAndMapsAdvanced-Lab/03.2 SetsAndMapsAdvanced-Lab.iml" filepath="$PROJECT_DIR$/03.2 SetsAndMapsAdvanced-Lab/03.2 SetsAndMapsAdvanced-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.3 SetsAndMapsAdvanced-Exercises/03.3 SetsAndMapsAdvanced-Exercises.iml" filepath="$PROJECT_DIR$/03.3 SetsAndMapsAdvanced-Exercises/03.3 SetsAndMapsAdvanced-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.2 StreamsFilesAndDirectories-Lab/04.2 StreamsFilesAndDirectories-Lab.iml" filepath="$PROJECT_DIR$/04.2 StreamsFilesAndDirectories-Lab/04.2 StreamsFilesAndDirectories-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.3 StreamsFilesAndDirectories-Exercises/04.3 StreamsFilesAndDirectories-Exercises.iml" filepath="$PROJECT_DIR$/04.3 StreamsFilesAndDirectories-Exercises/04.3 StreamsFilesAndDirectories-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.2 FunctionalProgramming-Lab/05.2 FunctionalProgramming-Lab.iml" filepath="$PROJECT_DIR$/05.2 FunctionalProgramming-Lab/05.2 FunctionalProgramming-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.3 FunctionalProgramming-Exercises/05.3 FunctionalProgramming-Exercises.iml" filepath="$PROJECT_DIR$/05.3 FunctionalProgramming-Exercises/05.3 FunctionalProgramming-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.2 DefiningClasses-Lab/06.2 DefiningClasses-Lab.iml" filepath="$PROJECT_DIR$/06.2 DefiningClasses-Lab/06.2 DefiningClasses-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.3 DefiningClasses-Exercises/06.3 DefiningClasses-Exercises.iml" filepath="$PROJECT_DIR$/06.3 DefiningClasses-Exercises/06.3 DefiningClasses-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.2 Generics/07.2 Generics.iml" filepath="$PROJECT_DIR$/07.2 Generics/07.2 Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.2 IteratorsAndComparators-Lab/08.2 IteratorsAndComparators-Lab.iml" filepath="$PROJECT_DIR$/08.2 IteratorsAndComparators-Lab/08.2 IteratorsAndComparators-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.3 IteratorsAndComparators-Exercises/08.3 IteratorsAndComparators-Exercises.iml" filepath="$PROJECT_DIR$/08.3 IteratorsAndComparators-Exercises/08.3 IteratorsAndComparators-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.2 BasicAlgorithms/09.2 BasicAlgorithms.iml" filepath="$PROJECT_DIR$/09.2 BasicAlgorithms/09.2 BasicAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.2 Exam-Prepartion/10.2 Exam-Prepartion.iml" filepath="$PROJECT_DIR$/10.2 Exam-Prepartion/10.2 Exam-Prepartion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.3 Exam/10.3 Exam.iml" filepath="$PROJECT_DIR$/10.3 Exam/10.3 Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SoftUniAdvancedJava.iml" filepath="$PROJECT_DIR$/.idea/SoftUniAdvancedJava.iml" />
+    </modules>
+  </component>
+</project>
